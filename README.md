@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="www.linkedin.com/in/daniel-muñoz-886325267">Daniel Puentes</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/daniel-muñoz-886325267">Daniel Puentes</a> 👋</h1>
 </div>
 
 ## Sobre mi
@@ -12,7 +12,7 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <td width="50%">
 <h3 align="center">LibraManage</h3>
 <div align="center">
-<a href=""https://github.com/camilomupu/libraManage" target="_blank"><img src="https://i.imgur.com/YEuSmjc.png" width="400" alt="LibraManage"></a>
+<a href="https://github.com/camilomupu/libraManage" target="_blank"><img src="https://i.imgur.com/YEuSmjc.png" width="400" alt="LibraManage"></a>
 <p>
   <a href="https://github.com/camilomupu/libraManage" target="_blank">
     <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Enlace a GitHub">
