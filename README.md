@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/daniel-muñoz-886325267">Daniel Puentes</a> 👋</h1>
+  <h1 align="center"><a href="https://www.linkedin.com/in/daniel-muñoz-886325267">Hola, soy Daniel Puentes</a> 👋</h1>
 </div>
 
 ## Sobre mi
