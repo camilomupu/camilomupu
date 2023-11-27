@@ -21,6 +21,13 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <p><strong>Nombre de la Empresa: LibraTech Solutions</strong></p>
 <p>Las bibliotecas han sido históricamente centros de conocimiento y aprendizaje. Con la digitalización, las bibliotecas han comenzado a ofrecer acceso a materiales digitales, permitiendo a los usuarios acceder a una amplia gama de recursos desde la comodidad de sus hogares. Sin embargo, gestionar eficientemente los recursos físicos y digitales, las reservas, los préstamos y las devoluciones, así como proporcionar una experiencia de usuario intuitiva y accesible, sigue siendo un desafío.</p>
 <p>Una biblioteca reconocida requiere un sistema robusto que no solo gestione sus extensos recursos de libros físicos y digitales, sino que también facilite a los usuarios la búsqueda, reserva y préstamo de libros, y permita a los administradores gestionar eficientemente el inventario, las reservas y los préstamos, y obtener insights a través de datos analíticos.</p>
+<h4 align="center">Colaboradores</h4>
+        <ul>
+          <li><a href="https://github.com/JeffHC0911" target="_blank">Jefferson Henao Cano</a></li>
+          <li><a href="https://github.com/maximuscack" target="_blank">Juan Carlos López</a></li>
+          <li><a href="https://github.com/danyguancha" target="_blank">Dany Orlando Guancha</a></li>
+          <li><a href="https://github.com/AlejandroMesaR" target="_blank">Alejandro Mesa Rodríguez</a></li>
+        </ul>
 </div>
                                                                                       
 <td width="50%">
