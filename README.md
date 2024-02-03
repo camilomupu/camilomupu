@@ -33,7 +33,7 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <td width="50%">
 <h3 align="center">Deer Ale</h3>
 <div align="center">
-<a href=""https://github.com/camilomupu/" target="_blank"><img src="https://i.imgur.com/kLWqFMV.png" width="400" alt="LibraManage"></a>
+<a href=""https://github.com/camilomupu/" target="_blank"><img src="https://cdn.discordapp.com/attachments/1129144355135946844/1199871774716858519/a04edc4d-1f2e-48a7-85f2-ab3d25c886dc.jpeg?ex=65cd592b&is=65bae42b&hm=e941ac02b53fae6c44f8b206c8addfa7df768127326c335d493f0bb9fbf8704e&" width="400" alt="LibraManage"></a>
 <p>
   <a href="https://github.com/camilomupu/" target="_blank">
     <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Enlace a GitHub">
