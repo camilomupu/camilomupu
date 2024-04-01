@@ -36,7 +36,7 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <a href=""https://github.com/camilomupu/" target="_blank"><img src="http://imgfz.com/i/yvq5g0B.png" width="400" alt="DeerAle"></a>
 <p>
   <a href="https://github.com/camilomupu/" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Enlace a GitHub">
+    <img src="https://img.shields.io/badge/API-ff9?style=for-the-badge&logo=swagger&logoColor=black" alt="Enlace Api">
   </a>
 </p>
 <p><strong>Nombre de la Empresa: Deer Ale</strong></p>
