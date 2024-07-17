@@ -12,7 +12,7 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <td width="50%">
 <h3 align="center"><a href="https://libramanage.vercel.app/" target="_blank">LibraManage</a></h3>
 <div align="center">
-<a href="https://libramanage.vercel.app/" target="_blank"><img src="https://i.imgur.com/YEuSmjc.png" width="400" alt="LibraManage"></a>
+<a href="https://libramanage.vercel.app/" target="_blank"><img src="https://i.imgur.com/YEuSmjc.png" width="350" alt="LibraManage"></a>
 <p><strong>Nombre de la Empresa: LibraTech Solutions</strong></p>
 <p>Una biblioteca reconocida requiere un sistema robusto que no solo gestione sus extensos recursos de libros físicos y digitales, sino que también facilite a los usuarios la búsqueda, reserva y préstamo de libros, y permita a los administradores gestionar eficientemente el inventario, las reservas y los préstamos, y obtener insights a través de datos analíticos.</p>
 <h4 align="center">Colaboradores</h4>
@@ -27,7 +27,7 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <td width="50%">
 <h3 align="center"><a href="https://deerale.streamlit.app/" target="_blank">Deer Ale</a></h3>
 <div align="center">
-<a href="https://deerale.streamlit.app/" target="_blank"><img src="http://imgfz.com/i/yvq5g0B.png" width="400" alt="DeerAle"></a>
+<a href="https://deerale.streamlit.app/" target="_blank"><img src="http://imgfz.com/i/yvq5g0B.png" width="350" alt="DeerAle"></a>
 <p>Explorar nuestro ecommerce es tan sencillo como deslizarse en tu par favorito de zapatos. Con un proceso de compra intuitivo, opciones de pago seguras y envío rápido, hacemos que la experiencia de adquirir zapatos sea tan placentera como usarlos. En Deer Ale, no solo vendemos zapatos; creamos experiencias de moda. Únete a nosotros mientras exploramos juntos el mundo de la elegancia, la tendencia y el confort. Tu próximo par de zapatos perfectos te espera en Deer Ale, donde la moda se fusiona con la comodidad.</p>
 <h4 align="center">Colaboradores</h4>
         <ul>
@@ -40,13 +40,14 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <td colspan="2" align="center">
 <h3 align="center"><a href="https://tgadaniel.streamlit.app/" target="_blank">Análisis de datos e integración con ChatGPT</a></h3>
 <div align="center">
-<a href="https://tgadaniel.streamlit.app/" target="_blank"><img src="https://i.ibb.co/b3pMq4Y/machine-learning.png" width="400" alt="tga"></a>
+<a href="https://tgadaniel.streamlit.app/" target="_blank"><img src="https://i.ibb.co/b3pMq4Y/machine-learning.png" width="350" alt="tga"></a>
 <p>Plataforma de visualización de datos, diseñada para transformar la manera en que los desarrolladores inmobiliarios comprenden y utilizan la información de sus clientes. Una herramienta intuitiva y poderosa que permite visualizar los resultados de encuestas realizadas, con el soporte de Pandas para el análisis de datos y la integración de ChatGPT para analizar el sentimiento de las recomendaciones.</p>
 </div>
 </td>
 </tr>
 </table>
 <br>
+
 
 
 ## 🔧 Tecnologías y herramientas
