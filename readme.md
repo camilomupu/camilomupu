@@ -40,7 +40,7 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <td colspan="2" align="center">
 <h3 align="center"><a href="https://tgadaniel.streamlit.app/" target="_blank">Análisis de datos e integración con ChatGPT</a></h3>
 <div align="center">
-<a href="https://tgadaniel.streamlit.app/" target="_blank"><img src="https://i.ibb.co/b3pMq4Y/machine-learning.png" width="350" alt="tga"></a>
+<a href="https://tgadaniel.streamlit.app/" target="_blank"><img src="https://i.ibb.co/b3pMq4Y/machine-learning.png" width="310" alt="tga"></a>
 <p>Plataforma de visualización de datos, diseñada para transformar la manera en que los desarrolladores inmobiliarios comprenden y utilizan la información de sus clientes. Una herramienta intuitiva y poderosa que permite visualizar los resultados de encuestas realizadas, con el soporte de Pandas para el análisis de datos y la integración de ChatGPT para analizar el sentimiento de las recomendaciones.</p>
 </div>
 </td>
