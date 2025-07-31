@@ -30,9 +30,6 @@ Ingeniero en Sistemas y Computación de la "Universidad de Caldas" con experienc
 <a href="https://deerale.streamlit.app/" target="_blank"><img src="https://i.postimg.cc/MKfcSq9g/DeerAle.jpg" width="350" alt="DeerAle"></a>
 <p>Explorar nuestro ecommerce es tan sencillo como deslizarse en tu par favorito de zapatos. Con un proceso de compra intuitivo, opciones de pago seguras y envío rápido, hacemos que la experiencia de adquirir zapatos sea tan placentera como usarlos. En Deer Ale, no solo vendemos zapatos; creamos experiencias de moda. Únete a nosotros mientras exploramos juntos el mundo de la elegancia, la tendencia y el confort. Tu próximo par de zapatos perfectos te espera en Deer Ale, donde la moda se fusiona con la comodidad.</p>
 <h4 align="center">Colaboradores</h4>
-        <ul>
-          <li><a href="https://github.com/sebas088" target="_blank">Sebastián Sandoval</a></li>
-        </ul>
 </div>   
 </td>
 </tr>
